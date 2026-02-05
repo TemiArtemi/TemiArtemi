@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Tomás Santana 👋
 
-<!--
-**TemiArtemi/TemiArtemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente soy estudiante de **Ciencia e Ingeniería de Datos** en la **Universidad de Las Palmas de Gran Canaria (ULPGC)**. Me apasiona transformar datos en información valiosa y construir soluciones tecnológicas eficientes.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y Herramientas
+Estas son algunas de las tecnologías que utilizo en mis proyectos académicos y personales:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de Programación:**
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+- **Desarrollo Web:**
+  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📊 Áreas de Interés
+- Análisis Exploratorio de Datos (EDA)
+- Machine Learning y Modelado Estadístico
+- Visualización de Datos
+- Ingeniería de Software
